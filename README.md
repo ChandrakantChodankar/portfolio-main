@@ -135,7 +135,7 @@ portfolio-main/
 This project includes a pre-configured `vercel.json` ensuring seamless client-side routing on Vercel:
 
 1. Push your repository to **GitHub**.
-2. Go to [Vercel](https://vercel.com/) and click **Add New... → Project**.
+2. Go to [Vercel](https://chandrakantchodankar.vercel.app/) and click **Add New... → Project**.
 3. Select your repository and configure:
    - **Framework Preset**: `Vite`
    - **Build Command**: `npm run build`
